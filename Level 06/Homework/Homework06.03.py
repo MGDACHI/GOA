@@ -1,9 +1,8 @@
- # შევქმნათ მარტივი პროგრამა სადაც მომხმარებელს ვკითხავთ მონაცემებს
+  # შევქმნათ მარტივი პროგრამა სადაც მომხმარებელი დაწერს მისალოც წერილს
 
-name = input("miutitet tqveni saxeli")
+name = input("miutitet tqveni saxeli ")
+congratulatory_letter = input("daweret milocvis werili ")
 
-congratulatory_letter = input("daweret milocvis werili")
+# დავწეროთ ბოლოში რომ პროგრამა დასრულდა
 
-
-# ბოლოს როდესაც პროგრამა დასრულდება გამოვიყვანოთ ტერმინალში რომ პროგრამა დასრულდა
-print("tqven warmatebit daweretmisaloci barati")
+print("tqven warmatebit daweret misaloci werili")
