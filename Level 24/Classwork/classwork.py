@@ -28,7 +28,7 @@ print(result)
 #! DAVALEBA 3
 
 def filter_integers(input_list):
-    return [item for item in input_list if isinstance(item, integer)]
+    return [item for item in input_list if isinstance(item)]
 
 example_list = [1, 2.5, 3, 4.0, 5]
 filtered_list = filter_integers(example_list)
