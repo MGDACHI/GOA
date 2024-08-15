@@ -25,6 +25,7 @@ example_list = ["watermelon" , "mango" , "melon", "strawberry", "pineapple"]
 example_list.append("apple")
 example_list.append("cherry")
 example_list.append("banana")
+example_list.append("mango")
 print("damatebis shemdeg:", example_list)  
 
 #* 2. სამჯერ ვშლით ელემენტებს .pop()-ის გამოყენებით
